@@ -11,5 +11,5 @@ EOF
   s.email       = 'life.annu.yadav@gmail.com'
   s.files       = ["lib/destroyed_record_collector.rb"]
   s.homepage    =
-    'http://rubygems.org/gems/destroyed_record_collector'
+    'https://github.com/annuyadav/destroyed_record_collector'
 end
